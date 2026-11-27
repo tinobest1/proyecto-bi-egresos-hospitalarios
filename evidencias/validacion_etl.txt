@@ -1,0 +1,38 @@
+=== 1. EXTRACCIÓN ===
+Egresos leídos: 1170813 filas, 36 columnas
+Población 2023: 221 cantones en 24 provincias
+
+=== 2. TRANSFORMACIÓN ===
+Filas duplicadas completas: 2736
+Duplicados eliminados. Filas restantes: 1168077
+Egresos con residencia en el exterior (excluidos): 466
+
+=== 3. INTEGRACIÓN ===
+Cantones de egresos sin coincidencia en población: 0 (0 egresos)
+Cantones de población sin egresos (se asigna 0): 0
+
+=== 4. CARGA ===
+Guardado: C:\Users\User\Documents\Universidad\quinto ciclo\Introduccion a la inteligencia de negocios\proyecto-bi-egresos-hospitalarios\datos_resultantes\egresos_poblacion_canton_2023.csv
+
+=== 5. VALIDACIÓN ===
+a) Egresos tras duplicados: 1168077 | exterior: 466 | sin coincidencia: 0 | integrados: 1167611
+   ¿Suma cuadra? True
+b) Filas del dataset integrado: 221 | nulos: 0
+c) Población mínima: 2301 (debe ser > 0)
+d) Máxima diferencia entre suma de cantones y total provincial: 0
+e) Estadísticos de la tasa por 1000 habitantes:
+count    221.00
+mean      57.11
+std       24.15
+min       13.31
+25%       39.55
+50%       52.21
+75%       70.46
+max      141.72
+   Top 5 cantones por tasa:
+       provincia        canton  tasa_egresos_x1000
+ Morona Santiago Limón Indanza              141.72
+            Loja        Olmedo              135.28
+ Morona Santiago    Gualaquiza              123.88
+Zamora Chinchipe      Yantzaza              123.68
+ Morona Santiago         Sucúa              122.99

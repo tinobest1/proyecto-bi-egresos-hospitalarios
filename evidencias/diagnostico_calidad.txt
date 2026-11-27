@@ -1,0 +1,34 @@
+=== CAPTURA 1: CODIFICACIÓN ===
+Lectura incorrecta (latin-1):
+ï»¿prov_ubi   cant_ubi
+    ManabÃ­      Chone
+    ManabÃ­ Portoviejo
+   BolÃ­var   Guaranda
+Lectura correcta (utf-8-sig):
+prov_ubi   cant_ubi
+  Manabí      Chone
+  Manabí Portoviejo
+ Bolívar   Guaranda
+
+=== CAPTURA 2: ESTRUCTURA Y CALIDAD GENERAL ===
+Filas: 1170813 | Columnas: 36
+Valores nulos totales: 0
+Filas duplicadas completas: 2736 (0.23%)
+
+=== CAPTURA 3: PROVINCIAS Y VALORES ATÍPICOS ===
+Provincias de residencia distintas: 25
+Egresos con residencia 'Exterior': 466
+Cantones de residencia distintos: 220
+
+=== CAPTURA 4: CANTONES SIN COINCIDENCIA ANTES DE CORREGIR ===
+Cantones de egresos que NO coinciden con población: 9 (229363 egresos, 19.6%)
+                      prov_res                     cant_res  egresos
+                        Guayas     Alfredo Baquerizo Moreno     1188
+                        Guayas   Crnel. Marcelino Maridueña      481
+                        Guayas                      Empalme     4484
+                        Guayas      Gnral. Antonio Elizalde      446
+                      Imbabura                     Cotacahi     2359
+                          Napo Carlos Julio Arrosemena Tola      240
+                      Orellana                     Orellana     5782
+                     Pichincha                        Quito   212910
+Santo Domingo de los Tsáchilas                 La Condordia     1473

@@ -1,0 +1,222 @@
+﻿provincia,canton,anio,egresos,poblacion,tasa_egresos_x1000
+Azuay,Camilo Ponce Enríquez,2023,1110,24226,45.82
+Azuay,Chordeleg,2023,762,12521,60.86
+Azuay,Cuenca,2023,52253,615768,84.86
+Azuay,El Pan,2023,198,2810,70.46
+Azuay,Girón,2023,1380,12578,109.72
+Azuay,Guachapala,2023,231,3645,63.37
+Azuay,Gualaceo,2023,3905,44774,87.22
+Azuay,Nabón,2023,674,15103,44.63
+Azuay,Oña,2023,194,3531,54.94
+Azuay,Paute,2023,2458,27442,89.57
+Azuay,Pucará,2023,557,9918,56.16
+Azuay,San Fernando,2023,258,3802,67.86
+Azuay,Santa Isabel,2023,1873,21240,88.18
+Azuay,Sevilla De Oro,2023,371,4699,78.95
+Azuay,Sígsig,2023,2539,26115,97.22
+Bolívar,Caluma,2023,778,16373,47.52
+Bolívar,Chillanes,2023,1219,20198,60.35
+Bolívar,Chimbo,2023,970,15807,61.37
+Bolívar,Echeandía,2023,830,15380,53.97
+Bolívar,Guaranda,2023,6497,100831,64.43
+Bolívar,Las Naves,2023,265,7255,36.53
+Bolívar,San Miguel,2023,2002,28975,69.09
+Carchi,Bolívar,2023,814,16410,49.6
+Carchi,Espejo,2023,985,14788,66.61
+Carchi,Mira,2023,665,13053,50.95
+Carchi,Montúfar,2023,1878,30788,61.0
+Carchi,San Pedro De Huaca,2023,342,8065,42.41
+Carchi,Tulcán,2023,7304,96038,76.05
+Cañar,Azogues,2023,9452,77533,121.91
+Cañar,Biblián,2023,1758,19167,91.72
+Cañar,Cañar,2023,4852,53114,91.35
+Cañar,Déleg,2023,425,6290,67.57
+Cañar,El Tambo,2023,759,9701,78.24
+Cañar,La Troncal,2023,4045,67016,60.36
+Cañar,Suscal,2023,292,4706,62.05
+Chimborazo,Alausí,2023,2597,39199,66.25
+Chimborazo,Chambo,2023,695,13772,50.46
+Chimborazo,Chunchi,2023,1147,11180,102.59
+Chimborazo,Colta,2023,1480,31396,47.14
+Chimborazo,Cumandá,2023,640,17394,36.79
+Chimborazo,Guamote,2023,1716,37523,45.73
+Chimborazo,Guano,2023,2205,49414,44.62
+Chimborazo,Pallatanga,2023,504,12274,41.06
+Chimborazo,Penipe,2023,382,7008,54.51
+Chimborazo,Riobamba,2023,25377,271614,93.43
+Cotopaxi,La Maná,2023,2175,56312,38.62
+Cotopaxi,Latacunga,2023,16494,224463,73.48
+Cotopaxi,Pangua,2023,828,22489,36.82
+Cotopaxi,Pujilí,2023,3190,68594,46.51
+Cotopaxi,Salcedo,2023,3702,69261,53.45
+Cotopaxi,Saquisilí,2023,995,24904,39.95
+Cotopaxi,Sigchos,2023,827,18769,44.06
+El Oro,Arenillas,2023,1899,33512,56.67
+El Oro,Atahualpa,2023,429,6271,68.41
+El Oro,Balsas,2023,418,8178,51.11
+El Oro,Chilla,2023,58,2301,25.21
+El Oro,El Guabo,2023,3212,62887,51.08
+El Oro,Huaquillas,2023,4460,59439,75.03
+El Oro,Las Lajas,2023,159,5878,27.05
+El Oro,Machala,2023,24030,318567,75.43
+El Oro,Marcabelí,2023,326,7034,46.35
+El Oro,Pasaje,2023,6200,86720,71.49
+El Oro,Piñas,2023,2664,30161,88.33
+El Oro,Portovelo,2023,1061,14018,75.69
+El Oro,Santa Rosa,2023,4969,84567,58.76
+El Oro,Zaruma,2023,1795,25278,71.01
+Esmeraldas,Atacames,2023,2866,54897,52.21
+Esmeraldas,Eloy Alfaro,2023,3016,51212,58.89
+Esmeraldas,Esmeraldas,2023,12422,230186,53.97
+Esmeraldas,Muisne,2023,1630,38056,42.83
+Esmeraldas,Quinindé,2023,5653,134127,42.15
+Esmeraldas,Rioverde,2023,831,35689,23.28
+Esmeraldas,San Lorenzo,2023,3056,54263,56.32
+Galápagos,Isabela,2023,92,3146,29.24
+Galápagos,San Cristóbal,2023,999,8791,113.64
+Galápagos,Santa Cruz,2023,1137,17871,63.62
+Guayas,Alfredo Baquerizo Moreno (Juján),2023,1188,26584,44.69
+Guayas,Balao,2023,750,27213,27.56
+Guayas,Balzar,2023,3295,62573,52.66
+Guayas,Colimes,2023,806,27608,29.19
+Guayas,Coronel Marcelino Maridueña,2023,481,14195,33.89
+Guayas,Daule,2023,8182,233201,35.09
+Guayas,Durán,2023,12052,321912,37.44
+Guayas,El Empalme,2023,4484,87177,51.44
+Guayas,El Triunfo,2023,2815,64112,43.91
+Guayas,General Antonio Elizalde,2023,446,12910,34.55
+Guayas,Guayaquil,2023,194894,2932225,66.47
+Guayas,Isidro Ayora,2023,289,15306,18.88
+Guayas,Lomas De Sargentillo,2023,491,24144,20.34
+Guayas,Milagro,2023,13671,213587,64.01
+Guayas,Naranjal,2023,3478,90889,38.27
+Guayas,Naranjito,2023,3108,47453,65.5
+Guayas,Nobol,2023,401,26138,15.34
+Guayas,Palestina,2023,548,19001,28.84
+Guayas,Pedro Carbo,2023,1322,55654,23.75
+Guayas,Playas,2023,2935,64183,45.73
+Guayas,Salitre,2023,2426,65359,37.12
+Guayas,Samborondón,2023,4053,104484,38.79
+Guayas,San Jacinto De Yaguachi,2023,4369,77077,56.68
+Guayas,Santa Lucía,2023,973,46355,20.99
+Guayas,Simón Bolívar,2023,1037,31273,33.16
+Imbabura,Antonio Ante,2023,2831,55251,51.24
+Imbabura,Cotacachi,2023,2359,55674,42.37
+Imbabura,Ibarra,2023,22454,225970,99.37
+Imbabura,Otavalo,2023,6503,120495,53.97
+Imbabura,Pimampiro,2023,612,14165,43.21
+Imbabura,San Miguel De Urcuquí,2023,562,18406,30.53
+Loja,Calvas,2023,1623,26760,60.65
+Loja,Catamayo,2023,1788,35960,49.72
+Loja,Celica,2023,642,14773,43.46
+Loja,Chaguarpamba,2023,351,6945,50.54
+Loja,Espíndola,2023,873,14482,60.28
+Loja,Gonzanamá,2023,672,12462,53.92
+Loja,Loja,2023,23931,255762,93.57
+Loja,Macará,2023,1574,18738,84.0
+Loja,Olmedo,2023,569,4206,135.28
+Loja,Paltas,2023,1555,23235,66.92
+Loja,Pindal,2023,472,10784,43.77
+Loja,Puyango,2023,858,16596,51.7
+Loja,Quilanga,2023,263,3987,65.96
+Loja,Saraguro,2023,1464,29932,48.91
+Loja,Sozoranga,2023,255,7005,36.4
+Loja,Zapotillo,2023,567,15058,37.65
+Los Ríos,Baba,2023,2108,47667,44.22
+Los Ríos,Babahoyo,2023,13201,190058,69.46
+Los Ríos,Buena Fe,2023,4201,81628,51.47
+Los Ríos,Mocache,2023,1404,43794,32.06
+Los Ríos,Montalvo,2023,1159,29842,38.84
+Los Ríos,Palenque,2023,819,25665,31.91
+Los Ríos,Puebloviejo,2023,1721,44952,38.29
+Los Ríos,Quevedo,2023,13327,221661,60.12
+Los Ríos,Quinsaloma,2023,587,20203,29.06
+Los Ríos,Urdaneta,2023,1696,34982,48.48
+Los Ríos,Valencia,2023,1790,54875,32.62
+Los Ríos,Ventanas,2023,4037,78803,51.23
+Los Ríos,Vinces,2023,3803,85675,44.39
+Manabí,24 De Mayo,2023,941,32716,28.76
+Manabí,Bolívar,2023,3742,45533,82.18
+Manabí,Chone,2023,10605,136579,77.65
+Manabí,El Carmen,2023,5908,130403,45.31
+Manabí,Flavio Alfaro,2023,1990,28927,68.79
+Manabí,Jama,2023,716,18105,39.55
+Manabí,Jaramijó,2023,926,31413,29.48
+Manabí,Jipijapa,2023,5024,81786,61.43
+Manabí,Junín,2023,1403,23219,60.42
+Manabí,Manta,2023,20329,284304,71.5
+Manabí,Montecristi,2023,4149,103867,39.95
+Manabí,Olmedo,2023,352,10585,33.25
+Manabí,Paján,2023,2271,43904,51.73
+Manabí,Pedernales,2023,2131,78017,27.31
+Manabí,Pichincha,2023,1640,31986,51.27
+Manabí,Portoviejo,2023,30404,339230,89.63
+Manabí,Puerto López,2023,715,27496,26.0
+Manabí,Rocafuerte,2023,2168,44594,48.62
+Manabí,San Vicente,2023,1931,26112,73.95
+Manabí,Santa Ana,2023,1939,53579,36.19
+Manabí,Sucre,2023,4994,67383,74.11
+Manabí,Tosagua,2023,2147,44579,48.16
+Morona Santiago,Gualaquiza,2023,2827,22820,123.88
+Morona Santiago,Huamboya,2023,515,11580,44.47
+Morona Santiago,Limón Indanza,2023,1445,10196,141.72
+Morona Santiago,Logroño,2023,607,7814,77.68
+Morona Santiago,Morona,2023,5096,57720,88.29
+Morona Santiago,Pablo Sexto,2023,106,2341,45.28
+Morona Santiago,Palora,2023,333,12323,27.02
+Morona Santiago,San Juan Bosco,2023,376,4495,83.65
+Morona Santiago,Santiago,2023,1151,9970,115.45
+Morona Santiago,Sucúa,2023,2987,24287,122.99
+Morona Santiago,Taisha,2023,1537,29225,52.59
+Morona Santiago,Tiwintza,2023,501,10080,49.7
+Napo,Archidona,2023,1459,32002,45.59
+Napo,Carlos Julio Arosemena Tola,2023,240,4757,50.45
+Napo,El Chaco,2023,742,9432,78.67
+Napo,Quijos,2023,601,6622,90.76
+Napo,Tena,2023,5840,83809,69.68
+Orellana,Aguarico,2023,210,7271,28.88
+Orellana,Francisco De Orellana,2023,5782,98683,58.59
+Orellana,La Joya De Los Sachas,2023,1603,54137,29.61
+Orellana,Loreto,2023,512,29477,17.37
+Pastaza,Arajuno,2023,138,10367,13.31
+Pastaza,Mera,2023,440,15520,28.35
+Pastaza,Pastaza,2023,8281,86522,95.71
+Pastaza,Santa Clara,2023,122,4653,26.22
+Pichincha,Cayambe,2023,4560,111595,40.86
+Pichincha,Distrito Metropolitano De Quito,2023,212910,2820059,75.5
+Pichincha,Mejía,2023,5515,106307,51.88
+Pichincha,Pedro Moncayo,2023,1360,42814,31.77
+Pichincha,Pedro Vicente Maldonado,2023,700,16421,42.63
+Pichincha,Puerto Quito,2023,565,26563,21.27
+Pichincha,Rumiñahui,2023,7832,112367,69.7
+Pichincha,San Miguel De Los Bancos,2023,520,14411,36.08
+Santa Elena,La Libertad,2023,6942,117850,58.91
+Santa Elena,Salinas,2023,4216,88900,47.42
+Santa Elena,Santa Elena,2023,11057,194079,56.97
+Santo Domingo de los Tsáchilas,La Concordia,2023,1473,56080,26.27
+Santo Domingo de los Tsáchilas,Santo Domingo,2023,33849,462496,73.19
+Sucumbíos,Cascales,2023,427,11986,35.62
+Sucumbíos,Cuyabeno,2023,273,9078,30.07
+Sucumbíos,Gonzalo Pizarro,2023,364,10677,34.09
+Sucumbíos,Lago Agrio,2023,8124,109211,74.39
+Sucumbíos,Putumayo,2023,287,9164,31.32
+Sucumbíos,Shushufindi,2023,4261,53044,80.33
+Sucumbíos,Sucumbíos,2023,153,3200,47.81
+Tungurahua,Ambato,2023,33938,379234,89.49
+Tungurahua,Baños De Agua Santa,2023,1847,22587,81.77
+Tungurahua,Cevallos,2023,699,10765,64.93
+Tungurahua,Mocha,2023,438,7393,59.25
+Tungurahua,Patate,2023,968,14088,68.71
+Tungurahua,Quero,2023,898,19463,46.14
+Tungurahua,San Pedro De Pelileo,2023,4493,65333,68.77
+Tungurahua,Santiago De Píllaro,2023,2780,43441,63.99
+Tungurahua,Tisaleo,2023,794,14103,56.3
+Zamora Chinchipe,Centinela Del Cóndor,2023,677,8074,83.85
+Zamora Chinchipe,Chinchipe,2023,784,10793,72.64
+Zamora Chinchipe,El Pangui,2023,1099,13717,80.12
+Zamora Chinchipe,Nangaritza,2023,513,7015,73.13
+Zamora Chinchipe,Palanda,2023,328,9066,36.18
+Zamora Chinchipe,Paquisha,2023,461,5119,90.06
+Zamora Chinchipe,Yacuambi,2023,377,6568,57.4
+Zamora Chinchipe,Yantzaza,2023,3033,24523,123.68
+Zamora Chinchipe,Zamora,2023,3864,31488,122.71
